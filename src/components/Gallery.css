@@ -1,0 +1,68 @@
+.imgrid{
+    display: grid; justify-content: center;
+    grid-template-columns: auto auto; width: 100vw;
+    row-gap: 0px;margin-top: -10px; column-gap: 10px;
+    background-color: #0c0817;
+    height: 1500px;
+}
+.card>img{
+
+    width: 600px; height: 300px;
+    position: relative;
+}
+.card{
+    display: flex;flex-direction: column;
+}
+.topimg{
+    margin-top: 0px;
+}
+.location>p{
+    text-align: center;
+    margin-top: 20px;
+}
+.location>iframe{
+    width: 100%;
+    height: 400px;
+}
+.offer{
+    display: flex;
+    position: absolute;
+    left: 250px; align-items: center;
+    top: 50px;
+}
+.offer>p{
+    font-size:xx-large;
+    font-weight: 600;margin-right: 200px;
+}
+.offer>button{
+    width: 180px;
+    border-radius: 25px;
+    background-color: #fff;
+    color: orange;
+    border: 0px; font-weight: bold;
+    font-size: 12px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    cursor: pointer;
+}
+.off>img{
+    width: 100vw;
+    height: 200px;
+}
+.off{
+    position: relative;
+}
+.tr>p{
+    color: #fff; margin-left: 10px;
+    font-size: smaller;
+}
+.tr{
+    /* margin: 10px; */
+    /* margin-left: 10px; */
+    margin-top: 250px;
+    height: 60px;
+    position: absolute;
+    opacity: 0.6;
+    width: 600px;
+    background-color: rgb(19, 19, 19)
+}

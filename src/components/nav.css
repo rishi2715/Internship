@@ -1,0 +1,32 @@
+.nav{
+    position: fixed;z-index: 999;
+    display: flex;margin-top: -10px; 
+    width: 100vw; align-items: center;
+    height: 100px;margin-left: -10px;
+    /* background-color: #050043; */
+    background: linear-gradient(to right,#14324b 5%,#01000d);
+    gap: 200px;
+}
+.icon>img{
+    height: auto;
+    margin-left: 50px;
+}
+button{
+    background-color: rgb(224, 202, 194);
+    color: blue;
+    height: 35px;
+    border-radius: 5px;
+    width: 100px;
+}
+li{
+    color: white;
+    margin: 10px; cursor: pointer;
+}
+li:hover{
+    color: rgb(227, 147, 56);
+}
+.content {
+    list-style: none;
+    display: flex;
+    font-size: large;
+}
