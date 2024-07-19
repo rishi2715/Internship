@@ -101,9 +101,101 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/a
 - **CSS3:** Styled the home page to improve its visual appeal and user experience.
 - **JavaScript:** Added interactivity and dynamic features to the home page.
 
+# Week 2: Created a Marks Calculator using JavaScript
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+## Outline of Week-2:
+- Introduction to ReactJS
+- Components in ReactJS
+- Routing in ReactJS
+- Created a homepage for Event Management website in ReactJS
 
-### `npm run build` fails to minify
+## 📝 Day-by-Day Progress
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+### Day 1: Introduction to ReactJS
+- **Learned about ReactJS:** Understood the basics of ReactJS, a popular JavaScript library for building user interfaces, and its advantages over traditional JavaScript.
+
+### Day 2: Components in ReactJS
+- **Understanding Components:** Studied the concept of components in ReactJS, which are reusable pieces of code that represent parts of the UI.
+- **Creating Components:** Created simple React components to get hands-on experience with component-based architecture.
+
+### Day 3: Routing in ReactJS
+- **React Router:** Learned about React Router, a library used to handle routing in React applications.
+- **Setting Up Routes:** Set up basic routes in a React application to navigate between different pages.
+
+### Day 4: Created a Homepage for Event Management Website in ReactJS
+- **Building the Homepage:** Developed the homepage of the Event Management website using ReactJS, incorporating various React components.
+- **Integrating JavaScript:** Utilized JavaScript for adding dynamic features to the homepage, such as interactive elements and data handling.
+
+### Day 5: Created a Marks Calculator using JavaScript
+- **Marks Calculator:** Implemented a marks calculator using JavaScript to calculate and display students' grades based on their scores.
+- **Integration with ReactJS:** Integrated the marks calculator into the ReactJS application, enhancing the functionality of the Event Management website.
+
+## Technologies Explored
+- **ReactJS:** Built user interfaces using components and managed routing for navigation.
+- **JavaScript:** Added interactivity and dynamic features, including the marks calculator.
+- **HTML5:** Structured the content and elements of the website.
+- **CSS3:** Styled the website to improve its visual appeal and user experience.
+
+# Week 3: Created Various Pages for the Event Management Website
+
+## Outline of Week-3:
+- Created a Login/Signup Page for the website
+- React Props, React Hooks, useState
+- Created a Contact Us Page for the website
+- useEffect and created a simple webpage using useEffect
+- Created a Gallery Page for the Website
+
+## 📝 Day-by-Day Progress
+
+### Day 1: Created a Login/Signup Page for the Website
+- **Login/Signup Page:** Developed a functional login/signup page for the Event Management website. This included forms for user authentication and validation using React and JavaScript.
+- **Form Validation:** Implemented client-side form validation to ensure proper input data before submission.
+
+### Day 2: React Props, React Hooks, useState
+- **React Props:** Learned about props in React, which are used to pass data between components.
+- **React Hooks:** Explored React Hooks, focusing on useState for managing component state.
+- **useState Implementation:** Applied useState to manage the state of various components, enhancing the interactivity of the website.
+
+### Day 3: Created a Contact Us Page for the Website
+- **Contact Us Page:** Developed a contact us page that includes a form for users to send messages or inquiries.
+- **Form Handling:** Used React to manage form state and handle form submissions.
+
+### Day 4: useEffect and Created a Simple Webpage using useEffect
+- **useEffect Hook:** Studied the useEffect hook in React, which is used to perform side effects in function components.
+- **Simple Webpage with useEffect:** Created a simple webpage that utilizes useEffect to fetch data from an API and display it dynamically.
+
+### Day 5: Created a Gallery Page for the Website
+- **Gallery Page:** Built a gallery page to showcase images related to events. This included creating a layout to display images in a grid format.
+- **Image Handling:** Implemented functionality to dynamically load and display images using React components and state management.
+
+## Technologies Explored
+- **ReactJS:** Built user interfaces using components, managed state with useState, and handled side effects with useEffect.
+- **JavaScript:** Enhanced the website with dynamic features and form validation.
+- **HTML5:** Structured the content and elements of the website.
+- **CSS3:** Styled the website to improve its visual appeal and user experience.
+
+# Week 4: Enhanced the Event Management Website
+
+## Outline of Week-4:
+- Created an Event Page for the Website
+- Used React Props for Repeating Components
+- Linked All Webpages Using React Router
+
+## 📝 Day-by-Day Progress
+
+### Day 1: Created an Event Page for the Website
+- **Event Page:** Developed a dedicated page to display event details. This included listing events, showing individual event information, and integrating interactive elements.
+- **Event Data:** Managed and displayed event data dynamically using React components.
+
+### Day 2: Used React Props for Repeating Components
+- **React Props:** Implemented props to pass data to and from components, ensuring efficient reuse of components throughout the website.
+- **Repeating Components:** Used props to create reusable components for consistent styling and behavior across multiple pages, such as event cards or list items.
+
+### Day 3: Linked All Webpages Using React Router
+- **React Router:** Utilized React Router to handle client-side routing and navigation between different pages of the website.
+- **Routing Implementation:** Set up routes and navigation links to connect all the webpages, including the home page, event page, contact us page, gallery page, and login/signup page.
+
+## Technologies Explored
+- **ReactJS:** Continued development of the website using React, focusing on creating dynamic and reusable components.
+- **React Router:** Implemented routing to enable smooth navigation between different parts of the website.
+- **JavaScript:** Enhanced functionality and interactivity across the website.
