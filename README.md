@@ -63,6 +63,45 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/a
 
 ### Deployment
 
+# Start of Internship : 
+
+# Week 1: Created a Home Page for the Event Management Website
+
+## Outline of Week-1:
+- Introduction to JavaScript and its features
+- JavaScript syntax, output, operators, and data types
+- JavaScript functions, strings, and string functions
+- JavaScript math.random() function
+- Created a captcha code using JavaScript
+
+## 📝 Day-by-Day Progress
+
+### Day 1: Introduction to JavaScript and its Features
+- **Learned about JavaScript:** Understood the role of JavaScript in web development, including its capabilities for adding interactivity to web pages.
+
+### Day 2: JavaScript Syntax, Output, Operators, and Data Types
+- **JavaScript Syntax:** Studied the basic syntax rules of JavaScript, including how to write and execute code.
+- **Output Methods:** Explored different methods to produce output in JavaScript, such as `console.log()`, `alert()`, and `document.write()`.
+- **Operators and Data Types:** Learned about various operators (arithmetic, comparison, logical) and data types (string, number, boolean, object) in JavaScript.
+
+### Day 3: JavaScript Functions, Strings, and String Functions
+- **Functions:** Created and invoked JavaScript functions to perform specific tasks. Understood the importance of functions for code reusability and organization.
+- **Strings and String Functions:** Manipulated strings using JavaScript. Explored common string functions like `length`, `indexOf()`, `substring()`, `replace()`, and `toUpperCase()`.
+
+### Day 4: JavaScript math.random() Function and Creating a Captcha Code
+- **math.random() Function:** Used the `math.random()` function to generate random numbers, which is essential for creating dynamic and unpredictable content.
+- **Captcha Code:** Implemented a simple captcha code using JavaScript. This included generating random numbers and characters and displaying them as a challenge for users to complete.
+
+### Day 5: Finalizing the Home Page
+- **Integrated JavaScript:** Incorporated the learned JavaScript functionalities into the home page of the Event Management website, making it interactive and user-friendly.
+- **Testing and Debugging:** Tested the implemented JavaScript code to ensure everything works as expected. Debugged any issues that arose during testing.
+
+## Technologies Explored
+- **HTML5:** Structured the content and elements of the home page.
+- **CSS3:** Styled the home page to improve its visual appeal and user experience.
+- **JavaScript:** Added interactivity and dynamic features to the home page.
+
+
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
 ### `npm run build` fails to minify
